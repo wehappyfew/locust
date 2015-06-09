@@ -1,0 +1,10 @@
+Questions on Locust usage
+
+1. 
+Is there a way to ramp up the load? For example I would like to warm up an AWS balancer by hitting the web servers with 100 users for 3 minutes at first, 
+then with 200 users for 5 minutes  etc.
+
+2. 
+Is there a documentation on the metrics that locust gathers? I would like to understand the load I put on my servers in terms of real users.
+Is that possible by the current metrics?
+
